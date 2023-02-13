@@ -1,0 +1,85 @@
+.p-about.Flex350 {
+display: flex;
+}
+.p-about.Flex351 {
+display: flex;
+column-gap: 30px;
+margin-left: 60px;
+}
+.p-about.Flex352 {
+display: flex;
+}
+.p-about.Flex353 {
+display: flex;
+}
+.p-about.Flex354 {
+display: flex;
+column-gap: 30px;
+margin-left: ;
+margin-right: ;
+padding-left: ;
+align-items: center;
+}
+.p-about.TextBox271 {
+color: #757575;
+cursor: pointer;
+}
+.p-about.TextBox272 {
+color: #757575;
+cursor: pointer;
+}
+.p-about.TextBox273 {
+color: #757575;
+cursor: pointer;
+}
+.p-about.TextBox274 {
+color: #757575;
+cursor: pointer;
+}
+.p-about.TextBox275 {
+color: #757575;
+cursor: pointer;
+}
+.p-about.Image116 {
+width: 100%;
+}
+.p-about.Button59 {
+color: #000000ff;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+outline-color: transparent;
+}
+.p-about.Button60 {
+color: #ffff;
+background-color: #FF7629ff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-offset: ;
+align-self: center;
+outline-color: transparent;
+}
